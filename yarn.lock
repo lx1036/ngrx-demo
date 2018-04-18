@@ -141,6 +141,12 @@
   version "5.2.10"
   resolved "http://registry.npm.taobao.org/@angular/language-service/download/@angular/language-service-5.2.10.tgz#5699af9d46033faccefeb21d4d168524d2180a8c"
 
+"@angular/material@^5.2.5":
+  version "5.2.5"
+  resolved "http://registry.npm.taobao.org/@angular/material/download/@angular/material-5.2.5.tgz#287af95d234e0644244d9db565f7a05c10b737f8"
+  dependencies:
+    tslib "^1.7.1"
+
 "@angular/platform-browser-dynamic@^5.2.0":
   version "5.2.10"
   resolved "http://registry.npm.taobao.org/@angular/platform-browser-dynamic/download/@angular/platform-browser-dynamic-5.2.10.tgz#bec4c0ca9fb16c34adee851caa187989953216ca"
@@ -158,6 +164,18 @@
   resolved "http://registry.npm.taobao.org/@angular/router/download/@angular/router-5.2.10.tgz#cb36c32de0a233a9b49789e11ca0f96c5304f25a"
   dependencies:
     tslib "^1.7.1"
+
+"@ngrx/effects@^5.2.0":
+  version "5.2.0"
+  resolved "http://registry.npm.taobao.org/@ngrx/effects/download/@ngrx/effects-5.2.0.tgz#aa762b69cb6fd4644d724a1cecd265caa42baf09"
+
+"@ngrx/router-store@^5.2.0":
+  version "5.2.0"
+  resolved "http://registry.npm.taobao.org/@ngrx/router-store/download/@ngrx/router-store-5.2.0.tgz#bf4b174ce19a36eba8211fc1ddeaf1e35ae74368"
+
+"@ngrx/store@^5.2.0":
+  version "5.2.0"
+  resolved "http://registry.npm.taobao.org/@ngrx/store/download/@ngrx/store-5.2.0.tgz#627ed74c9cd95462930485d912a557117b23903e"
 
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
@@ -5526,6 +5544,12 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
+rxjs@6.0.0-rc.0:
+  version "6.0.0-rc.0"
+  resolved "http://registry.npm.taobao.org/rxjs/download/rxjs-6.0.0-rc.0.tgz#3fed5454dfaf5a01005c973de857f860826d3eac"
+  dependencies:
+    tslib "^1.9.0"
+
 rxjs@^5.5.6:
   version "5.5.10"
   resolved "http://registry.npm.taobao.org/rxjs/download/rxjs-5.5.10.tgz#fde02d7a614f6c8683d0d1957827f492e09db045"
@@ -6444,7 +6468,7 @@ tsickle@^0.27.2:
     source-map "^0.6.0"
     source-map-support "^0.5.0"
 
-tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1:
+tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.9.0"
   resolved "http://registry.npm.taobao.org/tslib/download/tslib-1.9.0.tgz#e37a86fda8cbbaf23a057f473c9f4dc64e5fc2e8"
 
