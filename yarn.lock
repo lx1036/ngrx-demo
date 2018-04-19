@@ -27,11 +27,11 @@
     "@ngtools/json-schema" "^1.1.0"
     rxjs "^5.5.6"
 
-"@angular/animations@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/animations/download/@angular/animations-5.2.10.tgz#61718792e0922ac622fd7c6dfb0afbb996638692"
+"@angular/animations@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/animations/download/@angular/animations-6.0.0-rc.5.tgz#4103f620f52023c0b26c741158276bdcc9c1a451"
   dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.0"
 
 "@angular/cli@~1.7.4":
   version "1.7.4"
@@ -98,72 +98,72 @@
   optionalDependencies:
     node-sass "^4.7.2"
 
-"@angular/common@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/common/download/@angular/common-5.2.10.tgz#828308df8505a31f219a6895ff91dbb178ebac98"
+"@angular/common@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/common/download/@angular/common-6.0.0-rc.5.tgz#eb31379f187b60ea9724595bc29dff7439c0efcc"
   dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.0"
 
-"@angular/compiler-cli@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/compiler-cli/download/@angular/compiler-cli-5.2.10.tgz#7e9dead0730dc20f7658e110a558b557b60e7be2"
+"@angular/compiler-cli@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/compiler-cli/download/@angular/compiler-cli-6.0.0-rc.5.tgz#1ecb3702532def6e15051253ecd7e98467cf5842"
   dependencies:
     chokidar "^1.4.2"
     minimist "^1.2.0"
     reflect-metadata "^0.1.2"
     tsickle "^0.27.2"
 
-"@angular/compiler@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/compiler/download/@angular/compiler-5.2.10.tgz#1cd9914436f0707957823531c4418ce5b7e6a130"
+"@angular/compiler@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/compiler/download/@angular/compiler-6.0.0-rc.5.tgz#6d163ff459c2aa3134efd3d2f187cff08a7aeabf"
+  dependencies:
+    tslib "^1.9.0"
+
+"@angular/core@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/core/download/@angular/core-6.0.0-rc.5.tgz#33b1a6b4d0daaf1ec034fe2404a6009607f00cbd"
+  dependencies:
+    tslib "^1.9.0"
+
+"@angular/forms@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/forms/download/@angular/forms-6.0.0-rc.5.tgz#9594f2c2423e46aa345000097ce1f8e6e6569fc5"
+  dependencies:
+    tslib "^1.9.0"
+
+"@angular/http@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/http/download/@angular/http-6.0.0-rc.5.tgz#40dad79b77d463bd325263020e79e9512dc085eb"
+  dependencies:
+    tslib "^1.9.0"
+
+"@angular/language-service@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/language-service/download/@angular/language-service-6.0.0-rc.5.tgz#19c24928aba82c6175e833d5fbeb6f82c58d72c0"
+
+"@angular/material@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/material/download/@angular/material-6.0.0-rc.5.tgz#e24adcf68196b03f5a81d8e0d6dab105c3840451"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/core@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/core/download/@angular/core-5.2.10.tgz#a6eba06cae7267efbd2666e3fa5e42b84c2261de"
+"@angular/platform-browser-dynamic@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/platform-browser-dynamic/download/@angular/platform-browser-dynamic-6.0.0-rc.5.tgz#2f7fb42b10f2fd769d209dfed6b50b89590851d8"
   dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.0"
 
-"@angular/forms@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/forms/download/@angular/forms-5.2.10.tgz#6a4cf9c87b57005599c0ec59a79b7f1b06375591"
+"@angular/platform-browser@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/platform-browser/download/@angular/platform-browser-6.0.0-rc.5.tgz#492bc951339ff170eb057871626476b34e65227f"
   dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.0"
 
-"@angular/http@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/http/download/@angular/http-5.2.10.tgz#d80d60fc205b043f72bd61ba22e7aa386d6a51ec"
+"@angular/router@6.0.0-rc.5":
+  version "6.0.0-rc.5"
+  resolved "http://registry.npm.taobao.org/@angular/router/download/@angular/router-6.0.0-rc.5.tgz#b37f93cd81738b7a64697d1804c87c880d7bb636"
   dependencies:
-    tslib "^1.7.1"
-
-"@angular/language-service@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/language-service/download/@angular/language-service-5.2.10.tgz#5699af9d46033faccefeb21d4d168524d2180a8c"
-
-"@angular/material@^5.2.5":
-  version "5.2.5"
-  resolved "http://registry.npm.taobao.org/@angular/material/download/@angular/material-5.2.5.tgz#287af95d234e0644244d9db565f7a05c10b737f8"
-  dependencies:
-    tslib "^1.7.1"
-
-"@angular/platform-browser-dynamic@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/platform-browser-dynamic/download/@angular/platform-browser-dynamic-5.2.10.tgz#bec4c0ca9fb16c34adee851caa187989953216ca"
-  dependencies:
-    tslib "^1.7.1"
-
-"@angular/platform-browser@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/platform-browser/download/@angular/platform-browser-5.2.10.tgz#92883803de7362e635748a440dd5f6172fc2394a"
-  dependencies:
-    tslib "^1.7.1"
-
-"@angular/router@^5.2.0":
-  version "5.2.10"
-  resolved "http://registry.npm.taobao.org/@angular/router/download/@angular/router-5.2.10.tgz#cb36c32de0a233a9b49789e11ca0f96c5304f25a"
-  dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.0"
 
 "@ngrx/effects@^5.2.0":
   version "5.2.0"
@@ -1688,6 +1688,10 @@ deep-equal@^1.0.1:
 deep-extend@~0.4.0:
   version "0.4.2"
   resolved "http://registry.npm.taobao.org/deep-extend/download/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
+
+deep-freeze-strict@^1.1.1:
+  version "1.1.1"
+  resolved "http://registry.npm.taobao.org/deep-freeze-strict/download/deep-freeze-strict-1.1.1.tgz#77d0583ca24a69be4bbd9ac2fae415d55523e5b0"
 
 deep-is@~0.1.3:
   version "0.1.3"
@@ -4294,6 +4298,12 @@ netmask@~1.0.4:
 next-tick@1:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/next-tick/download/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
+
+ngrx-store-freeze@^0.2.2:
+  version "0.2.2"
+  resolved "http://registry.npm.taobao.org/ngrx-store-freeze/download/ngrx-store-freeze-0.2.2.tgz#fbc1f50dbee8f5a63a34aa589abeb422d68f7fc5"
+  dependencies:
+    deep-freeze-strict "^1.1.1"
 
 no-case@^2.2.0:
   version "2.3.2"
